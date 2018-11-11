@@ -1,6 +1,7 @@
 #include <iostream>
 #include <sys/types.h>
 #include <sys/wait.h>
+#include <string>
 #include <signal.h>
 #include <unistd.h>
 using namespace std;
